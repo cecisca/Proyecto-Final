@@ -1,0 +1,44 @@
+.icons {
+  font-size: 50px;
+  color: red;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link a {
+  text-decoration: none;
+}
+
+.nav-linkhover {
+  color: red;
+}
+
+header {
+  background-image: url("/css/icons/img/hobbit.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+
+header .fondo-blanco {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+h1 {
+  font-family: "Poor Story", cursive;
+}
+
+h2 {
+  font-family: "Slabo 27px", serif;
+}
+
+.main-images {
+  width: 450px;
+  height: 450px;
+}
+
+.epilogue {
+  font-family: "Slabo 27px", serif;
+}
+/*# sourceMappingURL=estilos.css.map */

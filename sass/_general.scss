@@ -1,0 +1,53 @@
+.nav-link {
+    color: white;
+    a {
+        text-decoration: none;
+    }
+    &hover {
+        color:red;
+    }
+}
+header {
+    background-image: url("/css/icons/img/hobbit.jpg");
+    height: 100vh;
+    background-size: cover;
+    
+
+    .fondo-blanco {
+        background: rgba(255,255,255,.5);
+    }
+    
+}
+
+h1 {
+    font-family: $main-tittle;
+    color: $light-orange;
+}
+
+h2 {
+    font-family: $subtitles;
+}
+
+.main-images {
+width: $middle-image;
+height: $middle-image;
+}
+
+.epilogue {
+    font-family: $subtitles
+
+}
+.btnwhatss {
+    bottom:20px;
+    right:20px;
+}
+
+.form {
+    background-color: $green-two;
+}
+
+footer {
+    background-image: linear-gradient(#527318, white);
+    color: white;
+    padding-bottom: 10px;
+    }

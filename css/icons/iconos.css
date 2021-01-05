@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'iconos';
+  src:  url('fonts/iconos.eot?qvxjhd');
+  src:  url('fonts/iconos.eot?qvxjhd#iefix') format('embedded-opentype'),
+    url('fonts/iconos.ttf?qvxjhd') format('truetype'),
+    url('fonts/iconos.woff?qvxjhd') format('woff'),
+    url('fonts/iconos.svg?qvxjhd#iconos') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'iconos' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-briefcase:before {
+  content: "\e900";
+}
+.icon-calendar1:before {
+  content: "\e901";
+}
+.icon-camera1:before {
+  content: "\e902";
+}
+.icon-map:before {
+  content: "\e903";
+}
+.icon-map-pin:before {
+  content: "\e904";
+}
+.icon-wifi:before {
+  content: "\e905";
+}
+.icon-lines:before {
+  content: "\e906";
+}
+.icon-lightning:before {
+  content: "\e907";
+}
+.icon-sun:before {
+  content: "\e908";
+}
+.icon-moon:before {
+  content: "\e909";
+}
+.icon-home2:before {
+  content: "\e90a";
+}
+.icon-camera:before {
+  content: "\e90f";
+}
+.icon-compass:before {
+  content: "\e949";
+}
+.icon-stopwatch:before {
+  content: "\e952";
+}
+.icon-calendar:before {
+  content: "\e953";
+}
+.icon-keyboard:before {
+  content: "\e955";
+}
+.icon-binoculars:before {
+  content: "\e985";
+}
+.icon-spoon-knife:before {
+  content: "\e9a3";
+}
+.icon-fire:before {
+  content: "\e9a9";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
+.icon-share2:before {
+  content: "\ea82";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
