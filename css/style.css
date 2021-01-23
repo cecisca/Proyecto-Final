@@ -19,8 +19,8 @@ header .fondo-blanco {
 .navbar-light .navbar-toggler {
   background-color: white;
   }
-.hola {
-  color: white !important ;
+#nav-color {
+  color: white;
   font-weight: 500;
 }
 .hola:hover {
@@ -33,20 +33,34 @@ h1 {
   font-family: "Poor Story", cursive;
   color: #527318;
 }
-  
+
 h2 {
+  font-family: "Poor Story", cursive;
+  /* background-color: #feb72b ; */
+}
+  
+h3 {
   font-family: "Slabo 27px", serif;
 }
   
 .main-images {
   width: 450px;
   height: 450px;
+  border-radius: 30px;
 }
  
 .epilogue {
   font-family: "Slabo 27px", serif;
 }
 
+/* .contact-form {
+  background-color: black;
+   
+} */
+.form-space {
+  width: 400px;
+  border-radius: 5px;
+}
 
 
 footer {
@@ -62,6 +76,19 @@ footer {
 
 .icons:hover {
     color: #ffe75e;
+}
+
+.carousel-caption {
+  position: absolute; 
+  right: 15%;
+  top: 125px; /* Cambiar bottom por top y los píxeles que necesites */
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Añadir para conseguir el fondo con opacidad */
 }
 
 .maps {
