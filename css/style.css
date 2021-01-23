@@ -23,7 +23,7 @@ header .fondo-blanco {
   color: white;
   font-weight: 500;
 }
-.hola:hover {
+#nav-color:hover {
   text-decoration: none;
   color: #feb72b !important;
 }
