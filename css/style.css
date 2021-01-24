@@ -36,7 +36,13 @@ h1 {
 
 h2 {
   font-family: "Poor Story", cursive;
-  /* background-color: #feb72b ; */
+  background-color:#ffe75e;
+  color: white;
+  display: inline-block;
+}
+h2:hover {
+  background-color:white;
+  color: #ffe75e;
 }
   
 h3 {
