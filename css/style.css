@@ -51,6 +51,9 @@ h3 {
  
 .epilogue {
   font-family: "Slabo 27px", serif;
+  font-weight: bold;
+  font-size: 20px;
+
 }
 
 .form-space {
@@ -75,6 +78,8 @@ footer {
 }
 
 .carousel-caption {
+  font-family: "Slabo 27px";
+  Font-style: italic;
   position: absolute; 
   right: 15%;
   top: 125px; /* Cambiar bottom por top y los píxeles que necesites */
@@ -84,7 +89,7 @@ footer {
   padding-bottom: 20px;
   color: #fff;
   text-align: center;
-}
+  }
 
 .maps {
   background-color: black;
